@@ -1,31 +1,29 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GC2BFXUVWDNPO4SLEJA6FH7Y3HD7OJF2CJCQYRMX74J4OCZXC6VB2QRA",
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
-ORG_DESCRIPTION=""
-ORG_LOGO=""
-ORG_PHYSICAL_ADDRESS=""
-ORG_OFFICIAL_EMAIL=""
+ORG_NAME="Acertus"
+ORG_URL="usabrokergroup.com"
+ORG_DESCRIPTION="https://usabrokergroup.com"
+ORG_LOGO="https://i.ibb.co/rmjbyfm/photo-2024-07-23-18-24-04.jpg"
 
 [[PRINCIPALS]]
-name=""
+name="Acertus"
 
 
 [[CURRENCIES]]
-code=""
+code="ACS"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GC2BFXUVWDNPO4SLEJA6FH7Y3HD7OJF2CJCQYRMX74J4OCZXC6VB2QRA"
 anchor_asset_type="crypto"
-name=""
-desc=""
-image=""
-fixed_number=
-max_number=
+name="USA Broker Alliance Group"
+desc="Acertus is the first company to initiate support among all logistic brokers and companies in the USA for a fundraising effort for the 2024 presidential elections."
+image="https://i.ibb.co/rmjbyfm/photo-2024-07-23-18-24-04.jpg"
+fixed_number=3000000
+max_number=3000000
 is_unlimited=false
 # was issued using the open and inclusive Stellar blockchain network.
