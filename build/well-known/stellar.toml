@@ -6,8 +6,8 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="Acertus"
-ORG_URL="usabrokergroup.com"
-ORG_DESCRIPTION="https://usabrokergroup.com"
+ORG_URL="https://usabrokergroup.com"
+ORG_DESCRIPTION="Acertus is the first company to initiate support among all logistic brokers and companies in the USA for a fundraising effort for the 2024 presidential elections."
 ORG_LOGO="https://i.ibb.co/rmjbyfm/photo-2024-07-23-18-24-04.jpg"
 
 [[PRINCIPALS]]
@@ -20,7 +20,7 @@ status="live"
 display_decimals=2
 issuer="GC2BFXUVWDNPO4SLEJA6FH7Y3HD7OJF2CJCQYRMX74J4OCZXC6VB2QRA"
 anchor_asset_type="crypto"
-name="USA Broker Alliance Group"
+name="Acertus"
 desc="Acertus is the first company to initiate support among all logistic brokers and companies in the USA for a fundraising effort for the 2024 presidential elections."
 image="https://i.ibb.co/rmjbyfm/photo-2024-07-23-18-24-04.jpg"
 fixed_number=3000000
